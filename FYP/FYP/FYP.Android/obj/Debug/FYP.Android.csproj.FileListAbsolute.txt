@@ -1,0 +1,168 @@
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Android.csprojResolveAssemblyReference.cache
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Android.csproj.CoreCompileInputs.cache
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Droid.MainPage.xaml.g.cs
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Droid.App.xaml.g.cs
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\FYP.Android.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\FYP.Android.pdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\com.companyname.FYP.apk
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\com.companyname.FYP-Signed.apk
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\crypto.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Firebase.Xamarin.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\JWT.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\System.Reactive.Core.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\System.Reactive.Linq.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Android.dll
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Android.pdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\android\bin\com.companyname.FYP.apk
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\layout\list_item.xml
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\layout\main.xml
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\drawable\icon.png
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\values\styles.xml
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\values\colors.xml
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\values\strings.xml
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\menu\menu_main.xml
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\drawable\add_icon.png
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\drawable\delete_icon.png
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\res\drawable\save_icon.png
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\R.cs.flag
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\uploadflags.txt
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\bin\Debug\FYP.Android.dll.mdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\android\assets\FYP.Android.dll.mdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ant12\Documents\GitHub\FYP\FYP\FYP\FYP.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\FYP.Android.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\FYP.Android.pdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\com.companyname.FYP.apk
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\com.companyname.FYP-Signed.apk
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\crypto.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Firebase.Xamarin.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\FormsViewGroup.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\JWT.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Newtonsoft.Json.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\System.Reactive.Core.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\System.Reactive.Interfaces.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\System.Reactive.Linq.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\FormsViewGroup.pdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Android.csprojResolveAssemblyReference.cache
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Android.csproj.CoreCompileInputs.cache
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Droid.MainPage.xaml.g.cs
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Droid.App.xaml.g.cs
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Android.dll
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\FYP.Android.pdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\android\bin\com.companyname.FYP.apk
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\layout\list_item.xml
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\layout\main.xml
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\drawable\icon.png
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\layout\tabbar.xml
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\layout\toolbar.xml
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\values\styles.xml
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\values\colors.xml
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\values\strings.xml
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\menu\menu_main.xml
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\drawable\add_icon.png
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\drawable\delete_icon.png
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\res\drawable\save_icon.png
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\R.cs.flag
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\uploadflags.txt
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\FYP.Android.dll.mdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\android\assets\FYP.Android.dll.mdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Work\University\Year 3\FYP\FYP\FYP\FYP.Android\bin\Debug\FYP.Android.dll
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\FYP.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

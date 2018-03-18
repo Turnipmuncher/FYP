@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "909478654197",
+    "firebase_url": "https://fyp-job-hunt-application.firebaseio.com",
+    "project_id": "fyp-job-hunt-application",
+    "storage_bucket": "fyp-job-hunt-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909478654197:android:8a74e1e5d52164cb",
+        "android_client_info": {
+          "package_name": "FYP.FYP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909478654197-5gps6vs4ct9s1jmrarc2dilm5rdtcuv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX9mxWhkb6WYz7JuUp2Xj7JQBpGOH2l94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
